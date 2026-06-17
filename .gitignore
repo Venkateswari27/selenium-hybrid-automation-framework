@@ -1,0 +1,26 @@
+# Eclipse files (local IDE settings)
+.metadata/
+.settings/
+.classpath
+.project
+
+# Maven generated build files
+target/
+
+# Test reports generated after execution
+test-output/
+
+# Framework reports
+Reports/
+Screenshots/
+
+# Log files
+*.log
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# IntelliJ support (if you switch IDE later)
+.idea/
+*.iml
